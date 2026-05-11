@@ -36,6 +36,7 @@ User input handling
 Logic building skills
 
 📁 files used : 
+[number guessing.py](https://github.com/user-attachments/files/27581170/number.guessing.py)
 
-📷 Project Output
+📷 Project Output : 
 
