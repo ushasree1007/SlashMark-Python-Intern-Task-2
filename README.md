@@ -39,4 +39,8 @@ Logic building skills
 [number guessing.py](https://github.com/user-attachments/files/27581170/number.guessing.py)
 
 📷 Project Output : 
+<img width="927" height="460" alt="Image" src="https://github.com/user-attachments/assets/b28acc6f-5b05-40ce-88da-78dad5fe6e68" />
 
+<img width="857" height="436" alt="Image" src="https://github.com/user-attachments/assets/df0755ae-fdd1-47e5-bb47-2b9ead94aa3a" />
+
+<img width="915" height="505" alt="Image" src="https://github.com/user-attachments/assets/70ecf772-f09c-4478-aec8-0f3b25f5f966" />
